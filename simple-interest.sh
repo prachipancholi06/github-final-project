@@ -1,4 +1,8 @@
 #!/bin/bash
+
+   #Author: Prachi Pancholi
+   # Additional Authors:
+   # <Prachipancholi>
    
    # Input:
    # p, principal amount
