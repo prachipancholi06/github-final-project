@@ -1,4 +1,5 @@
 #!/bin/bash
+   #Fixing a typo
 
    #Author: Prachi Pancholi
    # Additional Authors:
